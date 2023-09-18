@@ -1,5 +1,5 @@
 # ClassiCube-Opener
-Shortcut to open ClassiCube (normally)
+Shortcut to open [ClassiCube](https://www.classicube.net/) (normally)
 
 ## Why?
 On Windows, you only need to open the ClassiCube.exe file, and you are done. But on macOS, you have a Unix executable file name `ClassicCube`. Just `ClassiCube`, neither `ClassiCube.exe` nor `ClassiCube.dmg`. You cannot open it just by double clicking on that file, it will look like this:
